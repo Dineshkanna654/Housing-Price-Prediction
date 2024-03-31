@@ -1,0 +1,29 @@
+{
+    "cSpell.words": [
+        "astype",
+        "avaliable",
+        "Bigcity",
+        "cmap",
+        "colorbar",
+        "cpus",
+        "dataframe",
+        "dictonary",
+        "dtest",
+        "dtrain",
+        "figsize",
+        "fillna",
+        "fontsize",
+        "geopy",
+        "imread",
+        "imshow",
+        "iterrows",
+        "linewidth",
+        "mpimg",
+        "nthread",
+        "skipna",
+        "vincenty",
+        "xgboost",
+        "xlabel",
+        "ylabel"
+    ]
+}
